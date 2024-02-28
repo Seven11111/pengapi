@@ -1,0 +1,12 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 8121
+  servlet:
+    context-path: /api
+
+pengapi:
+  client:
+    access-key: pzh
+    secret-key: abcdefjh
+
+
